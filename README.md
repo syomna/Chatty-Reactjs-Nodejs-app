@@ -18,6 +18,7 @@ Chatty is a dynamic chat web application that allows users to connect and commun
  - Express.js
  - Socket.io
  - MongoDB
+ - Bcrypt
 
 - **Client-Side:**
  - React.js
