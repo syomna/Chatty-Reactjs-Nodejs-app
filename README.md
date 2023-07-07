@@ -1,5 +1,5 @@
 
-# Chatty Web Application
+# Chatty Web Application 🥳
 
 Chatty is a dynamic chat web application that allows users to connect and communicate in real-time. It offers a range of features such as secure login/register system, real-time chatting, emojis, profile information editing, and a customizable dark mode and light mode. This full-stack project was built using Node.js, Express.js, Socket.io, and MongoDB on the server-side, and React.js, Material UI, and Socket.io on the client-side.
 
