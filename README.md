@@ -13,14 +13,14 @@ Chatty is a dynamic chat web application that allows users to connect and commun
 
 ## Tech Stack
 
-- **Server-Side:**
+**Server-Side:**
  - Node.js
  - Express.js
  - Socket.io
  - MongoDB
  - Bcrypt
 
-- **Client-Side:**
+**Client-Side:**
  - React.js
  - Material UI
  - Socket.io
